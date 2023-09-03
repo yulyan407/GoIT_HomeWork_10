@@ -146,7 +146,7 @@ def main():
                         'add': add_contact,
                         'change': change_contact,
                         'phone': get_phone,
-                        'delete': remove_phone,
+                        'remove': remove_phone,
                         'show all': show_all,
                         '.': end,
                         'good bye': end,
